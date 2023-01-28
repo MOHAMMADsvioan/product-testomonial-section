@@ -152,7 +152,7 @@ h1{
     color:var(--clr-main);
     min-height: 56px;
     padding: 5px 5px;
-    width: 270px;
+    min-width: 270px;
     display: flex;
     place-items: center;
     float: right;
