@@ -118,9 +118,9 @@ p{
 
 h1{
     color: var(--clr-main);
-    font-size: 3rem;
+    font-size: 2.2rem;
     line-height: .9;
-    padding-left: 2.8rem;
+    padding-left: 1.8rem;
     font-weight: 700;
 }
 
@@ -134,9 +134,8 @@ h1{
 .text-heading{
     color: var(--clr-text);
     padding-top: 20px;
-    padding-left: 2.8rem;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .div-text-heading{
@@ -151,9 +150,9 @@ h1{
 
 .rate{
     color:var(--clr-main);
-    height: 56px;
+    min-height: 56px;
     padding: 5px 5px;
-    width: 430px;
+    width: 270px;
     display: flex;
     place-items: center;
     float: right;
@@ -212,8 +211,8 @@ h1{
     this commont, if i was in your place i would have
     been bored before i finish reading the first line  */
     float: right;
-     margin-right: 8.8rem;
-     margin-top: 0.625rem;
+     margin-right: 5rem;
+     margin-top: .625rem;
      display: inline-block;
 }
 
